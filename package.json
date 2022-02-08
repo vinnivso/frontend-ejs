@@ -1,0 +1,8 @@
+{
+  "name": "practice-nodejs-ejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:vinnivso/practice-nodejs-ejs.git",
+  "author": "vinnivso <vinnivsob@gmail.com>",
+  "license": "MIT"
+}
