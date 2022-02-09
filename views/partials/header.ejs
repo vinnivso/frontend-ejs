@@ -13,4 +13,8 @@
     </ul>
 
   </nav>
+
+  <!-- É possível fazer um ternário no EJS para realizar uma renderização condicional, no caso, estou fazendo uma renderização condicional do objeto page -->
+  <p>Página: <%= typeof page != "undefined"? page:"Home" %></p>
+
 </header>
