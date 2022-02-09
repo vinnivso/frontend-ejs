@@ -11,7 +11,16 @@
       <div class="bg-light p-5 rounded-lg m-3">
         <h1>Nodejs com EJS</h1>
         <p>Aprendendo a trabalhar com arquivos EJS</p>
+        <p><%= subtitle %></p>
       </div>
+      <ul>
+        <!-- Criando um foreach para renderizar cada elemento dentro do meu objeto criado para INDEX -->
+        <% qualities.forEach(function(element) { %>
+          <li>
+            <strong><%= element.title %></strong><%= element.message %>
+          </li>
+        <% }) %>
+      </ul>
     </main>
 
   <%- include ("../partials/footer"); %>
