@@ -29,3 +29,9 @@ Rode os seguintes comandos dentro da pasta que estiver com o package.json.
 Perfil      | Link do perfil no GITHUB
 --------- | ------
 [<img src="https://avatars.githubusercontent.com/u/52759918?v=4" width="75px;"/>](https://github.com/vinnivso) | [Vinícius Oliveira](https://github.com/vinnivso)
+
+## Imagens
+
+### Desktop
+![image](https://user-images.githubusercontent.com/52759918/153102179-1008c5d2-585a-455b-9f4c-ff9a0939b810.png)
+![image](https://user-images.githubusercontent.com/52759918/153102210-631e812d-ae02-4cfd-ad3c-2d6a317cbf75.png)
