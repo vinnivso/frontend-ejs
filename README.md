@@ -1,4 +1,4 @@
-# practice-nodejs-ejs
+# frontend-ejs
 Repositório criado para praticar modulação de páginas HTML utilizando o EJS com Nodejs
 
 #### EJS - Modulação de páginas HTML
